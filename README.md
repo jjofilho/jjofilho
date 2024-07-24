@@ -2,7 +2,7 @@
 - 👀 I’m interested in Back-End, Python/Java, Data Science, Artificial Intelligence
 - 🌱 I’m currently learning JavaScript, HTML, CSS, Python
 - 💞️ I’m performing and collaborating on Bootcamps ALURA | Oracle (2024) and Ada | SantanderCoders (2024)
-- 📫 How to reach me on LinledIn www.linkedin.com/in/joaooliveiradigital
+- 📫 How to reach me ==> LinkedIn www.linkedin.com/in/joaooliveiradigital
 - 😄 Pronouns: Oliveira (Portuguese); Oliveirá (French); Oliver (English)
 - ⚡ Fun fact: Curiosity, Animes, Games, Music
 - 🎯 Targets: Career Change
