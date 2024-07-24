@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning JavaScript, HTML, CSS, Python
 - 💞️ I’m performing and collaborating on Bootcamps ALURA | Oracle (2024) and Ada | SantanderCoders (2024)
 - 📫 How to reach me ==> LinkedIn www.linkedin.com/in/joaooliveiradigital
-- 😄 Pronouns: Oliveira (Portuguese); Oliveirá (French); Oliver (English)
+- 😄 Pronouns: Oliveira (Portuguese); Oliverá (French); Oliver (English)
 - ⚡ Fun fact: Curiosity, Animes, Games, Music
 - 🎯 Targets: Career Change
