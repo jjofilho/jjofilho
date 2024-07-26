@@ -1,7 +1,7 @@
 - 👋 Hi, I’m João Oliveira
 - 👀 I’m interested in Back-End, Python/Java, Data Science, Artificial Intelligence
 - 🌱 I’m currently learning JavaScript, HTML, CSS, Python
-- 💞️ I’m performing and collaborating on Bootcamps ALURA | Oracle (2024) and Ada | SantanderCoders (2024)
+- 💞️ I’m performing and collaborating on Bootcamps Programa SantanderCoders2024 | Ada e Programa ONE (2024) - ALURA | Oracle
 - 📫 How to reach me ==> LinkedIn www.linkedin.com/in/joaooliveiradigital
 - 😄 Pronouns: Oliveira (Portuguese); Oliverá (French); Oliver (English)
 - ⚡ Fun fact: Curiosity, Animes, Games, Music
