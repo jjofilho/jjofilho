@@ -3,7 +3,7 @@
 
 ## About Me João Oliveira
 
-- 👋 Hi, I’m João de Jesus Oliveira Flho, 48yo
+- 👋 Hi, I’m João de Jesus Oliveira Filho, 48yo
 - 🚩 I'm from Brazil
 - 👀 I’m interested in Back-End, Python/Java, Data Science, Artificial Intelligence
 - 🌱 I’m currently learning about myself | SoftSkills
