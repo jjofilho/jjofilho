@@ -1,6 +1,5 @@
 
-![](C:\Users\João\joao\one_alura\FASE3\SoftSkills\LogoLinkedIn.jpeg)
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jjofilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+![BannerJoaoOliveira](https://media.licdn.com/dms/image/v2/D4D16AQHrpWNIi1NCdA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724021197581?e=1730937600&v=beta&t=YXOwNRfbveJ3DvgJhVQMWoVV-2KPHtdry4TbhiTqbV0)
 
 ## About Me
 
