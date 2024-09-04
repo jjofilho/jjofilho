@@ -1,9 +1,10 @@
 
 ![BannerJoaoOliveira](https://media.licdn.com/dms/image/v2/D4D16AQHrpWNIi1NCdA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724021197581?e=1730937600&v=beta&t=YXOwNRfbveJ3DvgJhVQMWoVV-2KPHtdry4TbhiTqbV0)
 
-## About Me
+## About Me João Oliveira
 
-- 👋 Hi, I’m João Oliveira
+- 👋 Hi, I’m João de Jesus Oliveira Flho, 48yo
+- 🚩 I'm from Brazil
 - 👀 I’m interested in Back-End, Python/Java, Data Science, Artificial Intelligence
 - 🌱 I’m currently learning about myself | SoftSkills
 - 💞️ I’m performing and collaborating on Bootcamps Programa SantanderCoders2024 | Ada e Programa ONE (2024) - ALURA | Oracle
