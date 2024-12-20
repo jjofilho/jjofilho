@@ -7,11 +7,10 @@
 - 🚩 I'm from Brazil
 - 👀 I’m interested in Back-End, Python/Java, Data Science, Artificial Intelligence
 - 🌱 I’m currently learning about myself | SoftSkills
-- 💞️ I’m performing and collaborating on Bootcamps Programa SantanderCoders2024 | Ada e Programa ONE (2024) - ALURA | Oracle
 - 🔛 Languages: English | French
 - 😄 Pronouns: Oliveira (Portuguese); Oliverá (French); Oliver (English)
 - ⚡ Fun fact: Curiosity, Animes, Games, Music
-- 🎯 Targets: Career Change
+- 🎯 Targets: Machine Learning Engineer Career
 
 ## FrontEnd Technologies
 
@@ -37,6 +36,10 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Bootcamps
+
+![<img src="URL da imagem do bootcamp" height="50"></a>](https://assets.dio.me/kCPUcBRKwIhY3--gHdSspiZWdpUXMS2UD0wXM7klMb4/f:webp/h:120/q:80/L3RyYWNrcy81NzQ0ODVlZS0xZTk1LTQzMjAtOThlYy1kMTUyZGQ4ZDk5YmQucG5n)
 
 ## Git Stats
 
