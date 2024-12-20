@@ -1,5 +1,5 @@
 
-![BannerJoaoOliveira](https://media.licdn.com/dms/image/v2/D4D16AQHrpWNIi1NCdA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724021197581?e=1730937600&v=beta&t=YXOwNRfbveJ3DvgJhVQMWoVV-2KPHtdry4TbhiTqbV0)
+![BannerJoaoOliveira](https://www.linkedin.com/in/joaooliveiradigital/overlay/background-image/)
 
 ## About Me João Oliveira
 
