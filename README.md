@@ -1,5 +1,5 @@
 
-![BannerJoaoOliveira](https://media.licdn.com/dms/image/v2/D4D16AQHrpWNIi1NCdA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724021197581?e=1740009600&v=beta&t=d-lWzhcnxaNXezgixLX4wV9ksgbSwUj2laPCJzmhmlI)
+![BannerJoaoOliveira](https://media.licdn.com/dms/image/v2/D4D16AQFercgyGhtxBA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735054577967?e=1740614400&v=beta&t=bah-WLiB5Xm3ghqPZhQcYp3VX7DrXVK9kFt4iPt0UVs)
 
 ## About Me João Oliveira
 
